@@ -1,0 +1,13 @@
+C:\Users\thelittlecitizen16\source\repos\MamaSearcher\MamaSearcher\bin\Debug\netcoreapp3.1\MamaSearcher.exe
+C:\Users\thelittlecitizen16\source\repos\MamaSearcher\MamaSearcher\bin\Debug\netcoreapp3.1\MamaSearcher.deps.json
+C:\Users\thelittlecitizen16\source\repos\MamaSearcher\MamaSearcher\bin\Debug\netcoreapp3.1\MamaSearcher.runtimeconfig.json
+C:\Users\thelittlecitizen16\source\repos\MamaSearcher\MamaSearcher\bin\Debug\netcoreapp3.1\MamaSearcher.runtimeconfig.dev.json
+C:\Users\thelittlecitizen16\source\repos\MamaSearcher\MamaSearcher\bin\Debug\netcoreapp3.1\MamaSearcher.dll
+C:\Users\thelittlecitizen16\source\repos\MamaSearcher\MamaSearcher\bin\Debug\netcoreapp3.1\MamaSearcher.pdb
+C:\Users\thelittlecitizen16\source\repos\MamaSearcher\MamaSearcher\obj\Debug\netcoreapp3.1\MamaSearcher.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen16\source\repos\MamaSearcher\MamaSearcher\obj\Debug\netcoreapp3.1\MamaSearcher.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen16\source\repos\MamaSearcher\MamaSearcher\obj\Debug\netcoreapp3.1\MamaSearcher.AssemblyInfo.cs
+C:\Users\thelittlecitizen16\source\repos\MamaSearcher\MamaSearcher\obj\Debug\netcoreapp3.1\MamaSearcher.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen16\source\repos\MamaSearcher\MamaSearcher\obj\Debug\netcoreapp3.1\MamaSearcher.dll
+C:\Users\thelittlecitizen16\source\repos\MamaSearcher\MamaSearcher\obj\Debug\netcoreapp3.1\MamaSearcher.pdb
+C:\Users\thelittlecitizen16\source\repos\MamaSearcher\MamaSearcher\obj\Debug\netcoreapp3.1\MamaSearcher.genruntimeconfig.cache
